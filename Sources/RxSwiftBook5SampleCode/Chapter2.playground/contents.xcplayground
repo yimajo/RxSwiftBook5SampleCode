@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='List2.1_ObserveOn'/>
+        <page name='List2.2_SubscribeOn'/>
+        <page name='List2.3_ObserveOnAndSubscribeOn'/>
+        <page name='List2.4_RxMarble'/>
+    </pages>
+</playground>
