@@ -11,9 +11,9 @@
 
 ## 目次
 
-- 第2章 [サンプルコード](Sources/RxSwiftBook5SampleCode/Chapter2)
-- 第3章 [サンプルコード](Sources/RxSwiftBook5SampleCode/Chapter3)
-- 第4章 [サンプルコード](Sources/RxSwiftBook5SampleCode/Chapter4)
+- 第2章 [サンプルコード](Sources/RxSwiftBook5SampleCode/Chapter2.playground/Pages/)
+- 第3章 [サンプルコード](Sources/RxSwiftBook5SampleCode/Chapter3.playground/Pages/)
+- 第4章 [サンプルコード](Sources/RxSwiftBook5SampleCode/Chapter4.playground/Pages/)
 
 ## ご注意
 
